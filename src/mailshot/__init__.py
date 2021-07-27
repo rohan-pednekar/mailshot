@@ -1,0 +1,1 @@
+from mailshot.mailshot import Mailshot
