@@ -123,7 +123,7 @@ Mailshot is developed by Rohan Pednekar.
 
 <br>
 
-Envelopes is licensed under the MIT License.
+Mailshot is licensed under the MIT License.
 
 <br>
 
